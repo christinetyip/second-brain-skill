@@ -4,7 +4,9 @@ description: Personal knowledge base powered by Ensue for capturing and retrievi
 metadata: {"clawdbot":{"emoji":"🧠","requires":{"env":["ENSUE_API_KEY"]},"primaryEnv":"ENSUE_API_KEY","homepage":"https://ensue-network.ai?utm_source=clawdbot&utm_medium=workflow"}}
 ---
 
+---
 metadata: {"clawdbot":{"emoji":"🧠","requires":{"env":["ENSUE_API_KEY"]},"primaryEnv":"ENSUE_API_KEY","homepage":"https://ensue-network.ai?utm_source=clawdbot"}}
+---
 
 # Second Brain
 
